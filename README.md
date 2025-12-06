@@ -2,7 +2,7 @@
 
 Um editor simples da BIOS das placas da série AMD Polaris, porém, para macOS. 
 Permite modificar parâmetros de power, fan control, clock limits e memory timings diretamente do arquivo ROM da BIOS. 
-Ferramenta similar ao PolarisBiosEditor.
+Ferramenta similar ao [PolarisBiosEditor](https://github.com/IndeedMiners/PolarisBiosEditor), porém em CLI.
 
 
 ## O que pode ser alterado:
