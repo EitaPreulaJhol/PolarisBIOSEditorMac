@@ -36,7 +36,7 @@ O editor trabalha com as seguintes estruturas da BIOS ATOM:
 Use o seguinte comando para compilar:
 
 ```bash
-clang++ -std=c++17 -o polarisbioseditormac main.cpp
+clang++ -o polarisbioseditormac main.cpp -std=c++17
 ```
 
 
